@@ -1,6 +1,6 @@
 # Bootcamp Avanade Net Developer
 
-Bem-vindo ao repositório do **Bootcamp Avanade Net Developer** feito pela ![Dio](https://web.dio.me/track/coding-future-avanade-net-developer)! Este espaço foi criado para armazenar todos os projetos e exercícios do BootCamp Avanade, oferecendo uma visão abrangente e prática sobre o desenvolvimento .NET.
+Bem-vindo ao repositório do **Bootcamp Avanade Net Developer** feito pela ![Dio](https://web.dio.me/track/coding-future-avanade-net-developer). Este espaço foi criado para armazenar todos os projetos e exercícios do BootCamp Avanade, oferecendo uma visão abrangente e prática sobre o desenvolvimento .NET.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="220">
 
