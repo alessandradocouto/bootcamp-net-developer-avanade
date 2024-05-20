@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do **Bootcamp Avanade Net Developer**! Este espaço foi criado para armazenar todos os projetos e exercícios do BootCamp Avanade, oferecendo uma visão abrangente e prática sobre o desenvolvimento .NET.
 
-![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="220">
 
 
 ## Sobre o Repositório
